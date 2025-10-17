@@ -1,5 +1,5 @@
 # MYFA-TOOLKIT
-MyFA Toolkit is a Bash-based offensive security framework with an interactive menu. It automates tasks like recon, scanning, exploitation, post-exploitation, social engineering, wireless attacks, and password cracking—all in one sleek terminal interface.
+MYFA Toolkit is a Bash-based offensive security framework with an interactive menu. It automates tasks like recon, scanning, exploitation, post-exploitation, social engineering, wireless attacks, and password cracking—all in one sleek terminal interface.
 
 ## Features
 - 🔍 Reconnaissance with Amass
