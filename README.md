@@ -14,3 +14,14 @@ MyFA Toolkit is a Bash-based offensive security framework with an interactive me
 ## Requirements
 - Kali Linux or WSL with networking tools
 - sudo privileges for certain modules
+
+
+## Installation
+
+Clone the repository and make the script executable:
+
+```bash
+git clone https://github.com/mostafayasser/myfa-toolkit.git
+cd myfa-toolkit
+chmod +x myfa.sh
+./myfa.sh
