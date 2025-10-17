@@ -21,7 +21,6 @@ MyFA Toolkit is a Bash-based offensive security framework with an interactive me
 Clone the repository and make the script executable:
 
 ```bash
-git clone https://github.com/mostafayasser/myfa-toolkit.git
-cd myfa-toolkit
+wget https://raw.githubusercontent.com/MostafaYasserFarouk/MYFA-TOOLKIT/refs/heads/main/myfa.sh
 chmod +x myfa.sh
 ./myfa.sh
