@@ -133,7 +133,7 @@ crack_password_john() {
 main_menu() {
 while true
 do
-	show_menu "Destroyer Toolkit" main_menu_options main_menu_descriptions
+	show_menu "MYFA Toolkit" main_menu_options main_menu_descriptions
   	selected=$?
   	
   		case "$selected" in
